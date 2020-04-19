@@ -2,12 +2,12 @@
  In this course, we'll be going through the following topics, divided in the form of modules. There are a total of ten modules which require you to have a basic knowledge of coding in any language, and some knowledge of high school mathematics, like Linear Algebra, elementary Statistics and Differential Calculus. Even if you don't, we will cover most of it as we go along the course.
 
 ## Python Basics and Intro
-...Perspective of the Course
-...Setting up the Environment
-...Theory of Python Programming
-...Objects in Python
-...Exception Handling
-...Libraries to Get Started
+... Perspective of the Course
+... Setting up the Environment
+... Theory of Python Programming
+... Objects in Python
+... Exception Handling
+... Libraries to Get Started
 ## Python Advance
 ...Advanced Libraries In Python
 ...Using Pandas and Numpy to Access Data
