@@ -41,7 +41,7 @@
 - Bottom Up Heirarchical Clustering
 ## PCA and Intro to t-SNE
 - The Idea and Math Behind It
--Computing the Principle Components
+- Computing the Principle Components
 - Interpretation and a Simple Example
 - Idea behind t-SNE and Application
 ## Support Vector Machine
