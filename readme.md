@@ -14,6 +14,7 @@
 - Matplotlib & Seaborn : Visualization
 ## Working With the Data
 - Classification of Data
+- Data Collection(Web Scrapping)
 - EDA : Exploring the Data
 - Analyzing and Cleaning
 - Manipulating and Rescaling
